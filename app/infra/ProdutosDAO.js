@@ -12,4 +12,4 @@ ProdutosDAO.prototype.salva = function(produto, callback) {
 
 module.exports = function () {
     return ProdutosDAO;
-}
+};
